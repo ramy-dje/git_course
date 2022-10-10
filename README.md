@@ -1,2 +1,2 @@
 # git_course
-learning this git and github course
+learning this git and github courses
